@@ -24,3 +24,7 @@ go build .
 This creates a .exe file which can be coppied into the invoice folder.
 
 Double click the .exe file in the invoice folder and a new invoice folder will be coppied from the template.
+
+# Note
+
+Folders and template folders only exist for testing
