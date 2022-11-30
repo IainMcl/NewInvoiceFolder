@@ -1,6 +1,8 @@
 # NewInvoiceFolder
 Simple exe to create a new invoice folder
 
+> Why spend 10s doing a task that you can spend hours failing to automate
+
 ## Issue
 
 I currently create invoices which are in a folder with `Invoice 1`, `Invoice 2`, ... These all come from a common template folder `Invoice_template` containing an `xlsx` file. This structure is used by another script to read invoices and pull together my tax calculations. 
